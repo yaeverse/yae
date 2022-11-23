@@ -1,3 +1,3 @@
-module github.com/star-inc/yae
+module github.com/yaeverse/yae
 
-go 1.18
+go 1.19
